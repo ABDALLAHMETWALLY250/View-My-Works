@@ -1,0 +1,83 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.contaner
+{
+  height: 100vh;
+  border: 15px solid red;
+  display: flex;
+  flex-wrap: wrap;
+}
+.card
+{
+    width: 330px;
+    height: 200px;
+   border-radius: 10%;
+ background-color:  blue;
+ text-align: center;
+ padding-top: 150px;
+ margin: 10px;
+}
+
+.b
+{
+  
+  width: 90%;
+  height: 40px;
+  text-decoration: none;
+  background: firebrick;
+  border-radius: 30%;
+}
+.A
+{
+  text-decoration: none;
+  color: blue;
+  font-size: 20px;
+  font-weight: 400;
+}
+@media screen and (max-width:500px) 
+{
+  *
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.contaner
+{
+  height: 100vh;
+  border: 15px solid red;
+  display: flex;
+  flex-wrap: wrap;
+}
+.card
+{
+    width: 330px;
+    height: 200px;
+   border-radius: 10%;
+ background-color:  blue;
+ text-align: center;
+ padding-top: 150px;
+ margin: 10px;
+}
+
+.b
+{
+  
+  width: 90%;
+  height: 40px;
+  text-decoration: none;
+  background: firebrick;
+  border-radius: 30%;
+}
+.A
+{
+  text-decoration: none;
+  color: blue;
+  font-size: 20px;
+  font-weight: 400;
+}
+}
